@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17cd2789-eac7-4300-90ec-05b275256a02" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/test-shardingjdbc/target/" />
+    <ignored path="$PROJECT_DIR$/test-kafka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="36" column="77" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="YamlKeyGeneratorConfiguration.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlKeyGeneratorConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Member.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseShardingEngine.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-entry/4.0.0-RC2/sharding-core-entry-4.0.0-RC2.jar!/org/apache/shardingsphere/core/BaseShardingEngine.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/MemberController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/MemberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/MemberServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#915#916#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlSessionTemplate.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+              <folding>
+                <element signature="e#5069#5070#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>failed to</find>
+      <find>@compent</find>
+      <find>LogMessage</find>
+      <find>spring-boot-starter-web</find>
+      <find>t_member0</find>
+      <find>defaultDataSourceName</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>t_member</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test-shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/mapper/CustomerSysLogMapper.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/OrderItem.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/dao/MemberDAO.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/config/ShardingjdbcConfiguration.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/CustomerSysLogController.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/CustomerSysLogSerivceImpl.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Member.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/mapper/Member.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/mybatis-configuration.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/MemberService.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/mapper/MemberMapper.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/dao/MemberMapper.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Member.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/OrderItem.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Order.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/config/ShardingjdbcConfiguration.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/TestShardingjdbcApplication.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/ConfigService.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/ConfigController.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/config/PageHelperConfig.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/ConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/MemberController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-kafka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1103" />
+    <option name="y" value="188" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testshardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="test-shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.github.pagehelper:pagehelper:5.1.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.github.pagehelper:pagehelper:5.1.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="pagehelper-5.1.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.github.pagehelper:pagehelper:5.1.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="pagehelper-5.1.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pagehelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.persistence:persistence-api:1.0.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.persistence:persistence-api:1.0.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="persistence-api-1.0.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.persistence:persistence-api:1.0.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="persistence-api-1.0.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="persistence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-common-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-common-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-common-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="yaml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-common-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="yaml" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-common-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="yaml" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-entry:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-entry:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-entry-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-entry:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-entry-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-optimize-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-optimize-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="optimize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-optimize-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="optimize" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-optimize-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="optimize" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="segment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-optimize-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="optimize" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="segment" type="462c0819:PsiDirectoryNode" />
+              <item name="condition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.shardingsphere:sharding-core-optimize:4.0.0-RC2" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-optimize-4.0.0-RC2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="optimize" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="segment" type="462c0819:PsiDirectoryNode" />
+              <item name="condition" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis-spring:1.3.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis-spring:1.3.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-spring-1.3.1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis-spring:1.3.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-spring-1.3.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.11.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.11.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test-parent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.cn.testshardingjdbc.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test-parent\test-shardingjdbc\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestShardingjdbcApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.cn.testkafka.TestKafkaApplication" />
+    </configuration>
+    <configuration name="TestShardingjdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-shardingjdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.cn.testshardingjdbc.TestShardingjdbcApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TestKafkaApplication" />
+      <item itemvalue="Spring Boot.TestShardingjdbcApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\2\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17cd2789-eac7-4300-90ec-05b275256a02" name="Default" comment="" />
+      <created>1575535146107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575535146107</updated>
+      <workItem from="1575535148645" duration="9031000" />
+      <workItem from="1575597231135" duration="11952000" />
+      <workItem from="1575857183600" duration="589000" />
+      <workItem from="1575942386427" duration="4160000" />
+      <workItem from="1576029227758" duration="591000" />
+      <workItem from="1576113748797" duration="597000" />
+      <workItem from="1576739703456" duration="5774000" />
+      <workItem from="1576806464911" duration="8546000" />
+      <workItem from="1577080562859" duration="1710000" />
+      <workItem from="1577084310767" duration="568000" />
+      <workItem from="1577084977924" duration="302000" />
+      <workItem from="1577085572375" duration="6953000" />
+      <workItem from="1577093026643" duration="21916000" />
+      <workItem from="1577177593168" duration="2409000" />
+      <workItem from="1577238063592" duration="36848000" />
+      <workItem from="1577412036363" duration="4091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116037000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1160" y="340" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.108208954" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4516129" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32683983" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.504329" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4552239" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.504329" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32683983" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.108208954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3251599" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4251152" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/SqlSessionTemplate.class</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-optimize/4.0.0-RC2/sharding-core-optimize-4.0.0-RC2.jar!/org/apache/shardingsphere/core/optimize/sharding/segment/condition/engine/InsertClauseShardingConditionEngine.class</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Member.java.1" />
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/mapper/OrderItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/mapper/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/dao/OrderItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/dao/MemberMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/dao/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/builder/annotation/ProviderSqlSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="109" column="16" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#2139#2140#0" expanded="true" />
+            <element signature="e#2183#2184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="71" column="60" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/mapper/ConfigMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/config/ShardingjdbcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/mapper/MemberMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-transaction-core/4.0.0-RC2/sharding-transaction-core-4.0.0-RC2.jar!/org/apache/shardingsphere/transaction/annotation/ShardingTransactionType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/TestShardingjdbcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/strategy/YamlStandardShardingStrategyConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/strategy/YamlInlineShardingStrategyConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/strategy/route/inline/InlineShardingStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/engine/DefaultYamlRepresenter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/YamlConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlShardingStrategyConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlShardingRuleConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-jdbc-spring-boot-starter/4.0.0-RC2/sharding-jdbc-spring-boot-starter-4.0.0-RC2.jar!/org/apache/shardingsphere/shardingjdbc/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="13" column="78" lean-forward="true" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/ConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../worksoftware/jdk1.8/jdk/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/pagehelper/pagehelper/5.1.10/pagehelper-5.1.10.jar!/com/github/pagehelper/PageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2.jar!/com/github/pagehelper/PageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/config/PageHelperConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/ConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/ConfigServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../worksoftware/jdk1.8/jdk/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../worksoftware/jdk1.8/jdk/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlTableRuleConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/MyBatisExceptionTranslator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-aop/5.0.11.RELEASE/spring-aop-5.0.11.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3565">
+          <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.0.0-RC2/sharding-core-common-4.0.0-RC2.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlKeyGeneratorConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="36" column="77" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-entry/4.0.0-RC2/sharding-core-entry-4.0.0-RC2.jar!/org/apache/shardingsphere/core/BaseShardingEngine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#5069#5070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-optimize/4.0.0-RC2/sharding-core-optimize-4.0.0-RC2.jar!/org/apache/shardingsphere/core/optimize/sharding/segment/condition/engine/InsertClauseShardingConditionEngine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/javax/persistence/persistence-api/1.0.2/persistence-api-1.0.2.jar!/javax/persistence/Id.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-parent/test-shardingjdbc/src/main/java/com/test/cn/testshardingjdbc/entity/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

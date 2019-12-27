@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../test-parent/test-kafka/test-kafka.iml" filepath="$PROJECT_DIR$/../test-parent/test-kafka/test-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-parent.iml" filepath="$PROJECT_DIR$/test-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-shardingjdbc/test-shardingjdbc.iml" filepath="$PROJECT_DIR$/test-shardingjdbc/test-shardingjdbc.iml" />
+    </modules>
+  </component>
+</project>

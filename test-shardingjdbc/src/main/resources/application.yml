@@ -1,0 +1,29 @@
+#server:
+#  port: 7001
+#mybatis:
+#  mapper-locations: classpath:mapper/*.xml
+#  configuration:
+#        log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#        map-underscore-to-camel-case: true
+#spring:
+#  application:
+#    name: testShardingJdbc
+#  shardingsphere:
+#    datasource:
+#      names: ds0,ds1
+
+
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    url: jdbc:mysql://localhost:3306/demo?serverTimezone=GMT%2B8 # 数据库连接地址
+#    username: root
+#    password: 123456
+
+
+
+
+
+
+
+
